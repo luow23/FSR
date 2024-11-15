@@ -1,2 +1,2 @@
 # FSR
-A Feature Shuffling and Restoration Strategy for3 Universal Unsupervised Anomaly Detection
+A Feature Shuffling and Restoration Strategy for Universal Unsupervised Anomaly Detection
