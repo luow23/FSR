@@ -1,6 +1,6 @@
 # [FSR: A feature shuffling and restoration strategy for universal unsupervised anomaly detection (KBS 2025)](https://www.sciencedirect.com/science/article/pii/S0950705125019124)
 PyTorch implementation and for KBS2025 paper, A feature shuffling and restoration strategy for universal unsupervised anomaly detection.  
-![这是图片](AMI-Net-framework.png)  
+![这是图片](framework.png)  
 
 
 
